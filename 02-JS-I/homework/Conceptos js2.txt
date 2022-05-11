@@ -1,0 +1,16 @@
+Variables: El nombre que se le asigna a un valor o dato.
+
+Strings: Serie de caracteres del tipo texto
+
+Funciones: Es un conjunto de codigo que realiza una tarea asignada.
+
+Argumento: Es el valor con el que queremos que trabaje nuestra funcion.
+
+Return: Es el resultado (valor/dato) que nos devuelve la funcion.
+
+Declaraciones: Son las variables sin valor asignado. 
+
+If y else: Son condiciones dentro de la funcion para hacer una cosa u otra.
+
+Valor booleanos: Es un tipo de datos que solo puede ser verdadero (true) o falso (false)
+
