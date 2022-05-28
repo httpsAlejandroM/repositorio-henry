@@ -1,0 +1,10 @@
+For: Es un bucle que realiza tareas repetidamente
+
+&&, ||, !: Son operadores logicos que nos devuelven un resultado booleano (verdadero o falso)
+
+&&: Compara dos expresiones y devuelve "true" en caso de que ambas expresiones sean verdaderas, de lo contrario
+    retorna "false".
+
+||: Compara dos expresiones y solo requiere que una de ellas sea "true" para devolvernos "true".
+
+!: Este operador nos devuelve el resultado booleano opuesto del que se le pasa.
